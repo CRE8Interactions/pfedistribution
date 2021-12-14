@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'frontend';
 
   mail() {
-    window.location.href = "mailto:rcogan@pfedistribution.com";
+    // window.location.href = "mailto:rcogan@pfedistribution.com";
   }
 }
